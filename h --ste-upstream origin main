@@ -1,0 +1,12 @@
+user.name=vitor-gm
+user.email=https://github.com/vitor-gm
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/vitor-gm/PedraPapelTesoura.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+remote.upstream.url=https://github.com/vitor-gm/Iniciante..git
+remote.upstream.fetch=+refs/heads/*:refs/remotes/upstream/*
